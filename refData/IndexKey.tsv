@@ -63,11 +63,13 @@ Index	Name
 110	lineage tract - T1L14
 111	lineage tract - T1L21
 112	lineage tract - T1L23
+113	lineage tract - T1L15
 114	lineage tract - T1L11/19/23
 115	lineage tract - T1L12a
 116	lineage tract - T1L12b
 117	lineage tract - T1L13a
 118	lineage tract - T1L13b
+119	lineage tract - T1L16
 122	lineage tract - T1L6a
 123	lineage tract - T1L6b
 124	lineage tract - T1L7/8b
@@ -78,8 +80,11 @@ Index	Name
 131	lineage tract - T2L1b
 132	lineage tract - T2L3
 133	lineage tract - T2L4
+134 lineage tract - T214b
 135	lineage tract - T2L5
+136 lineage tract - T2L15
 137	lineage tract - T2L7
+138 lineage tract - T2L24
 140	lineage tract - T2L10
 141	lineage tract - T2L11
 142	lineage tract - T2L14
@@ -98,6 +103,7 @@ Index	Name
 159	lineage tract - T2L8a
 161	lineage tract - T2L8b
 162	lineage tract - T3L0
+163 lineage tract - T3L1b
 164	lineage tract - T3L2
 166	lineage tract - T3L3
 167	lineage tract - T3L4
@@ -116,6 +122,7 @@ Index	Name
 180	lineage tract - T3L5/6b
 181	lineage tract - T3L6a
 182	lineage tract - T3L7/8b
+183 lineage tract - T3L15
 184	lineage tract - T3L8ab
 185	lineage tract - T3L8b
 241	"""PCT"""
