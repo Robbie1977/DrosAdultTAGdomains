@@ -1,9 +1,9 @@
 Index	Name	Abbreviation	Note
-1	Metathoracic Neuromere 	MetaNm	(plus sensory area 26)
-2	Mesothoracic Neuromere 	MesoNm	(plus sensory area 24)
-3	Prothoracic Neuromere 	ProNm	(plus sensory area 25)
+1	Metathoracic Neuromere 	MetaNm	(sensory area 26)
+2	Mesothoracic Neuromere 	MesoNm	(sensory area 24)
+3	Prothoracic Neuromere 	ProNm	(sensory area 25)
 4	Cervical Connective	CvC	
-5	Abdominal ganglionic complex	AGC	(plus sensory area 27)
+5	Abdominal ganglionic complex	AGC	(sensory area 27)
 6	Abdominal nerve trunk	AbNT	MAN
 7	Forth abdominal nerve	AbN4	SLA
 8	Third abdominal nerve	AbN3	FLA
@@ -18,7 +18,7 @@ Index	Name	Abbreviation	Note
 17	Posterior dorsal mesothoracic nerve	PDMN	PDM
 18	Mesothoracic accessory nerve	MesoAN	MAC
 19	Dorsal metathoracic nerve	DMetaN	HN
-20	Accessory mesothoracic neuropil	AMNp	(plus sensory area 28)
+20	Accessory mesothoracic neuropil	AMNp	(sensory area 28)
 21			Not in use
 22			Not in use
 23	Cortex	C	(Including rind / cell bodies)
@@ -28,7 +28,7 @@ Index	Name	Abbreviation	Note
 27	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
 28	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
 29	Ventral prothoracic nerve	VProN	
-30	Tectulum	Tct	
+30	Tectulum	Tct	(sensory area 99)
 40	Giant fiber neuron	GF	
 41		DLT	
 42		ITD	
@@ -51,6 +51,7 @@ Index	Name	Abbreviation	Note
 59		MB	Not Available
 60		VCF	Not Available
 61		VE	Not Available
+99	Tectulum Sensory Neuropil	TctSNp	(Subsection of area 30)
 101	lineage tract - T1L0		
 102	lineage tract - T1L2		
 103	lineage tract - T1L21a		
