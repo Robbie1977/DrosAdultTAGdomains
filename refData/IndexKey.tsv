@@ -1,144 +1,144 @@
-Index	Name	Abbreviation	Note
-1	Metathoracic Neuromere 	MetaNm	(sensory area 26)
-2	Mesothoracic Neuromere 	MesoNm	(sensory area 24)
-3	Prothoracic Neuromere 	ProNm	(sensory area 25)
-4	Cervical Connective	CvC	
-5	Abdominal ganglionic complex	AGC	(sensory area 27)
-6	Abdominal nerve trunk	AbNT	MAN
-7	Forth abdominal nerve	AbN4	SLA
-8	Third abdominal nerve	AbN3	FLA
-9	Second abdominal nerve	AbN2	EMN
-10	Metathoracic leg nerve	MetaLN	
-11	First abdominal nerve	AbN1	MA
-12	Mesothoracic leg nerve	MesoLN	
-13	Anterior dorsal mesothoracic nerve	ADMN	
-14	Dorsal prothoracic nerve	DProN	ADN
-15	Prothoracic accessory nerve	ProAN	PAN
-16	Prothoracic leg nerve	ProLN	PLN
-17	Posterior dorsal mesothoracic nerve	PDMN	PDM
-18	Mesothoracic accessory nerve	MesoAN	MAC
-19	Dorsal metathoracic nerve	DMetaN	HN
-20	Accessory mesothoracic neuropil	AMNp	(sensory area 28)
-21			Not in use
-22			Not in use
-23	Cortex	C	(Including rind / cell bodies)
-24	Mesothoracic Neuromere Sensory Neuropil	MesoNmSNp	(Subsection of area 2)
-25	Prothoracic Neuromer Sensory Neuropil	ProNmSNp	(Subsection of area 3)
-26	Metathoracic Neuromere Sensory Neuropil	MetaNmSNp	(Subsection of area 1)
-27	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
-28	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
-29	Ventral prothoracic nerve	VProN	
-30	Tectulum	Tct	(sensory area 99)
-40	Giant fiber neuron	GF	
-41		DLT	
-42		ITD	
-43		CFF	
-44		HC	
-45		MTD	
-46		ADM	
-47		PDD	
-48		DLV	
-49		VLT	
-50		VTV	
-51		CPN	
-52		APC	Not Available
-53		CMN	
-54		VAC	
-55		ACM	
-56		MDA	
-57		DAM	Not Available
-58		DCF	Not Available
-59		MB	Not Available
-60		VCF	Not Available
-61		VE	Not Available
-99	Tectulum Sensory Neuropil	TctSNp	(Subsection of area 30)
-100	Neuroglian	Nrg	
-101	lineage tract - T1L0		
-102	lineage tract - T1L2		
-103	lineage tract - T1L21a		
-104	lineage tract - T1L3		
-105	lineage tract - T1L20/22		
-106	lineage tract - T1L5		
-107	lineage tract - T1L7		
-108	lineage tract - T1L9		
-109	lineage tract - T1L10		
-110	lineage tract - T1L14		
-111	lineage tract - T1L4/21		
-112	lineage tract - T1L23		
-113	lineage tract - T1L15		
-114	lineage tract - T1L11/19/23		
-115	lineage tract - T1L12a		
-116	lineage tract - T1L12b		
-117	lineage tract - T1L13a		
-118	lineage tract - T1L13b		
-119	lineage tract - T1L16		
-122	lineage tract - T1L6a		
-123	lineage tract - T1L6b		
-124	lineage tract - T1L7/8b		
-125	lineage tract - T1L8a/16		
-126	lineage tract - T1L8b		
-129	lineage tract - T2L0		
-130	lineage tract - T2L2		
-131	lineage tract - T2L1b		
-132	lineage tract - T2L3		
-133	lineage tract - T2L4		
-134	lineage tract - T214b		Check ID
-135	lineage tract - T2L5		
-136	lineage tract - T2L15		
-137	lineage tract - T2L7		
-138	lineage tract - T2L24		
-140	lineage tract - T2L10		
-141	lineage tract - T2L11		
-142	lineage tract - T2L14		
-143	lineage tract - T2L16		
-144	lineage tract - T2L17		
-146	lineage tract - T2L21		
-147	lineage tract - T2L23		
-150	lineage tract - T2L12a		
-151	lineage tract - T2L12b		
-153	lineage tract - T2L13b		
-154	lineage tract - T2L15/24		
-155	lineage tract - T2L1a		
-156	lineage tract - T2L20/22		
-157	lineage tract - T2L6a		
-158	lineage tract - T2L6b		
-159	lineage tract - T2L8a		
-161	lineage tract - T2L8b		
-162	lineage tract - T3L0		
-163	lineage tract - T3L1b		
-164	lineage tract - T3L2		
-166	lineage tract - T3L21		
-167	lineage tract - T3L3		Do Not Use Needs Checking
-168	lineage tract - T3L7		
-169	lineage tract - T3L9		
-170	lineage tract - T3L10		
-171	lineage tract - T3L14		
-172	lineage tract - T3L23		
-173	lineage tract - T3L14a		
-174	lineage tract - T3L12b		
-175	lineage tract - T3L13a		
-176	lineage tract - T3L13b		
-177	lineage tract - T3L14b		
-178	lineage tract - T3L1c		
-179	lineage tract - T3L20/22		
-180	lineage tract - T3L5/6b		
-181	lineage tract - T3L6a		
-182	lineage tract - T3L7/8b		
-183	lineage tract - T3L15		
-184	lineage tract - T3L8ab		
-185	lineage tract - T3L8b		
-200	Commissure - T1L10	ProAIC	Taken from Elav-0026-071113_Ch2
-201	Commissure - T1L6A	ProPDC	Taken from Elav-0053-081113_Ch2
-202	Commissure - T1L6B	ProPIPC	Taken from Elav-0053-081113_Ch2
-203	Commissure - T1L12A	ProPIPC	Taken from Lineage Tract - T1L12a (115)
-204	Commissure - T3L5/6B	MetaPIPC	Taken from Lineage Tract - T3L5/6b (180)
-205	Commissure - T2L6B	MesoPIPC	Taken from Lineage Tract - T2L6b (158)
-206	Commissure - T2L5	MesoPIPC	Taken from Lineage Tract - T2L5 (135)
-207	Commissure - T2L7B	MesoPIAC	Taken from Elav-0027-071113_Ch2
-208	Commissure - T2L8B	MesoPIAC	Taken from Elav-0014-021013_Ch1
-209	Commissure - T2L18? or 8B? (Note: posterior of T2L2)	MesoAIDC	Taken from Elav-0014-021013_Ch1
-241		PCT	
-242		ITD-HT	
-243		ITD-CFF	
-244		ITD-HC	
-255	Cervical nerve	CvN	
+Index	ID	Name	Abbreviation	Note
+1	FBbt_00110176	Metathoracic Neuromere 	MetaNm	(sensory area 26)
+2	FBbt_00110175	Mesothoracic Neuromere 	MesoNm	(sensory area 24)
+3	FBbt_00110174	Prothoracic Neuromere 	ProNm	(sensory area 25)
+4	FBbt_00004019	Cervical Connective	CvC	
+5	FBbt_00110173	Abdominal ganglionic complex	AGC	(sensory area 27)
+6	FBbt_00004099	Abdominal nerve trunk	AbNT	MAN
+7	FBbt_00004108	Forth abdominal nerve	AbN4	SLA
+8	FBbt_00004107	Third abdominal nerve	AbN3	FLA
+9	FBbt_00004106	Second abdominal nerve	AbN2	EMN
+10	FBbt_00004096	Metathoracic leg nerve	MetaLN	
+11		First abdominal nerve	AbN1	MA
+12	FBbt_00004063	Mesothoracic leg nerve	MesoLN	
+13	FBbt_00004060	Anterior dorsal mesothoracic nerve	ADMN	
+14	FBbt_00004055	Dorsal prothoracic nerve	DProN	ADN
+15	FBbt_00004056	Prothoracic accessory nerve	ProAN	PAN
+16	FBbt_00007657	Prothoracic leg nerve	ProLN	PLN
+17	FBbt_00004061	Posterior dorsal mesothoracic nerve	PDMN	PDM
+18	FBbt_00004062	Mesothoracic accessory nerve	MesoAN	MAC
+19	FBbt_00004094	Dorsal metathoracic nerve	DMetaN	HN
+20	FBbt_00004091	Accessory mesothoracic neuropil	AMNp	(sensory area 28)
+21				Not in use
+22				Not in use
+23	FBbt_00003625	Cortex	C	(Including rind / cell bodies)
+24	FBbt_00110175	Mesothoracic Neuromere Sensory Neuropil	MesoNmSNp	(Subsection of area 2)
+25	FBbt_00110174	Prothoracic Neuromer Sensory Neuropil	ProNmSNp	(Subsection of area 3)
+26	FBbt_00110176	Metathoracic Neuromere Sensory Neuropil	MetaNmSNp	(Subsection of area 1)
+27	FBbt_00110173	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
+28	FBbt_00004091	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
+29	FBbt_00004057	Ventral prothoracic nerve	VProN	
+30	FBbt_00125005	Tct	(sensory area 99)
+40	FBbt_00004020	Giant fiber neuron	GF	
+41			DLT	
+42			ITD	
+43			CFF	
+44			HC	
+45			MTD	
+46			ADM	
+47			PDD	
+48			DLV	
+49			VLT	
+50			VTV	
+51			CPN	
+52			APC	Not Available
+53			CMN	
+54			VAC	
+55			ACM	
+56			MDA	
+57			DAM	Not Available
+58			DCF	Not Available
+59			MB	Not Available
+60			VCF	Not Available
+61			VE	Not Available
+99		Tectulum Sensory Neuropil	TctSNp	(Subsection of area 30)
+100		Neuroglian	Nrg	
+101		lineage tract - T1L0		
+102		lineage tract - T1L2		
+103		lineage tract - T1L21a		
+104		lineage tract - T1L3		
+105		lineage tract - T1L20/22		
+106		lineage tract - T1L5		
+107		lineage tract - T1L7		
+108		lineage tract - T1L9		
+109		lineage tract - T1L10		
+110		lineage tract - T1L14		
+111		lineage tract - T1L4/21		
+112		lineage tract - T1L23		
+113		lineage tract - T1L15		
+114		lineage tract - T1L11/19/23		
+115		lineage tract - T1L12a		
+116		lineage tract - T1L12b		
+117		lineage tract - T1L13a		
+118		lineage tract - T1L13b		
+119		lineage tract - T1L16		
+122		lineage tract - T1L6a		
+123		lineage tract - T1L6b		
+124		lineage tract - T1L7/8b		
+125		lineage tract - T1L8a/16		
+126		lineage tract - T1L8b		
+129		lineage tract - T2L0		
+130		lineage tract - T2L2		
+131		lineage tract - T2L1b		
+132		lineage tract - T2L3		
+133		lineage tract - T2L4		
+134		lineage tract - T214b		Check ID
+135		lineage tract - T2L5		
+136		lineage tract - T2L15		
+137		lineage tract - T2L7		
+138		lineage tract - T2L24		
+140		lineage tract - T2L10		
+141		lineage tract - T2L11		
+142		lineage tract - T2L14		
+143		lineage tract - T2L16		
+144		lineage tract - T2L17		
+146		lineage tract - T2L21		
+147		lineage tract - T2L23		
+150		lineage tract - T2L12a		
+151		lineage tract - T2L12b		
+153		lineage tract - T2L13b		
+154		lineage tract - T2L15/24		
+155		lineage tract - T2L1a		
+156		lineage tract - T2L20/22		
+157		lineage tract - T2L6a		
+158		lineage tract - T2L6b		
+159		lineage tract - T2L8a		
+161		lineage tract - T2L8b		
+162		lineage tract - T3L0		
+163		lineage tract - T3L1b		
+164		lineage tract - T3L2		
+166		lineage tract - T3L21		
+167		lineage tract - T3L3		Do Not Use Needs Checking
+168		lineage tract - T3L7		
+169		lineage tract - T3L9		
+170		lineage tract - T3L10		
+171		lineage tract - T3L14		
+172		lineage tract - T3L23		
+173		lineage tract - T3L14a		
+174		lineage tract - T3L12b		
+175		lineage tract - T3L13a		
+176		lineage tract - T3L13b		
+177		lineage tract - T3L14b		
+178		lineage tract - T3L1c		
+179		lineage tract - T3L20/22		
+180		lineage tract - T3L5/6b		
+181		lineage tract - T3L6a		
+182		lineage tract - T3L7/8b		
+183		lineage tract - T3L15		
+184		lineage tract - T3L8ab		
+185		lineage tract - T3L8b		
+200		Commissure - T1L10	ProAIC	Taken from Elav-0026-071113_Ch2
+201		Commissure - T1L6A	ProPDC	Taken from Elav-0053-081113_Ch2
+202		Commissure - T1L6B	ProPIPC	Taken from Elav-0053-081113_Ch2
+203		Commissure - T1L12A	ProPIPC	Taken from Lineage Tract - T1L12a (115)
+204		Commissure - T3L5/6B	MetaPIPC	Taken from Lineage Tract - T3L5/6b (180)
+205		Commissure - T2L6B	MesoPIPC	Taken from Lineage Tract - T2L6b (158)
+206		Commissure - T2L5	MesoPIPC	Taken from Lineage Tract - T2L5 (135)
+207		Commissure - T2L7B	MesoPIAC	Taken from Elav-0027-071113_Ch2
+208		Commissure - T2L8B	MesoPIAC	Taken from Elav-0014-021013_Ch1
+209		Commissure - T2L18? or 8B? (Note: posterior of T2L2)	MesoAIDC	Taken from Elav-0014-021013_Ch1
+241			PCT	
+242			ITD-HT	
+243			ITD-CFF	
+244			ITD-HC	
+255		Cervical nerve	CvN	
