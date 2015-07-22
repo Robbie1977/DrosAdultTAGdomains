@@ -22,123 +22,123 @@ Index	ID	Name	Abbreviation	Note
 21				Not in use
 22				Not in use
 23	FBbt_00003625	Cortex	C	(Including rind / cell bodies)
-24	FBbt_00110175	Mesothoracic Neuromere Sensory Neuropil	MesoNmSNp	(Subsection of area 2)
-25	FBbt_00110174	Prothoracic Neuromer Sensory Neuropil	ProNmSNp	(Subsection of area 3)
-26	FBbt_00110176	Metathoracic Neuromere Sensory Neuropil	MetaNmSNp	(Subsection of area 1)
-27	FBbt_00110173	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
-28	FBbt_00004091	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
+24	FBbt_00125026	Mesothoracic Neuromere Sensory Neuropil	MesoNmSNp	(Subsection of area 2)
+25	FBbt_00125027	Prothoracic Neuromer Sensory Neuropil	ProNmSNp	(Subsection of area 3)
+26	FBbt_00125028	Metathoracic Neuromere Sensory Neuropil	MetaNmSNp	(Subsection of area 1)
+27	FBbt_00125029	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
+28	FBbt_00125030	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
 29	FBbt_00004057	Ventral prothoracic nerve	VProN	
-30	FBbt_00125005	Tectulum	Tct	(sensory area 99)
+30	FBbt_00125004	Tectulum	Tct	(sensory area 99)
 40	FBbt_00004020	Giant fiber neuron	GF	
-41			DLT	
-42			ITD	
-43			CFF	
-44			HC	
-45			MTD	
-46			ADM	
-47			PDD	
-48			DLV	
-49			VLT	
-50			VTV	
-51			CPN	
-52			APC	Not Available
-53			CMN	
-54			VAC	
-55			ACM	
-56			MDA	
-57			DAM	Not Available
-58			DCF	Not Available
-59			MB	Not Available
-60			VCF	Not Available
-61			VE	Not Available
-99		Tectulum Sensory Neuropil	TctSNp	(Subsection of area 30)
-100		Neuroglian	Nrg	
-101		lineage tract - T1L0		
-102		lineage tract - T1L2		
-103		lineage tract - T1L21a		
-104		lineage tract - T1L3		
-105		lineage tract - T1L20/22		
-106		lineage tract - T1L5		
-107		lineage tract - T1L7		
-108		lineage tract - T1L9		
-109		lineage tract - T1L10		
-110		lineage tract - T1L14		
-111		lineage tract - T1L4/21		
-112		lineage tract - T1L23		
-113		lineage tract - T1L15		
-114		lineage tract - T1L11/19/23		
-115		lineage tract - T1L12a		
-116		lineage tract - T1L12b		
-117		lineage tract - T1L13a		
-118		lineage tract - T1L13b		
-119		lineage tract - T1L16		
-122		lineage tract - T1L6a		
-123		lineage tract - T1L6b		
-124		lineage tract - T1L7/8b		
-125		lineage tract - T1L8a/16		
-126		lineage tract - T1L8b		
-129		lineage tract - T2L0		
-130		lineage tract - T2L2		
-131		lineage tract - T2L1b		
-132		lineage tract - T2L3		
-133		lineage tract - T2L4		
-134		lineage tract - T214b		Check ID
-135		lineage tract - T2L5		
-136		lineage tract - T2L15		
-137		lineage tract - T2L7		
-138		lineage tract - T2L24		
-140		lineage tract - T2L10		
-141		lineage tract - T2L11		
-142		lineage tract - T2L14		
-143		lineage tract - T2L16		
-144		lineage tract - T2L17		
-146		lineage tract - T2L21		
-147		lineage tract - T2L23		
-150		lineage tract - T2L12a		
-151		lineage tract - T2L12b		
-153		lineage tract - T2L13b		
-154		lineage tract - T2L15/24		
-155		lineage tract - T2L1a		
-156		lineage tract - T2L20/22		
-157		lineage tract - T2L6a		
-158		lineage tract - T2L6b		
-159		lineage tract - T2L8a		
-161		lineage tract - T2L8b		
-162		lineage tract - T3L0		
-163		lineage tract - T3L1b		
-164		lineage tract - T3L2		
-166		lineage tract - T3L21		
-167		lineage tract - T3L3		Do Not Use Needs Checking
-168		lineage tract - T3L7		
-169		lineage tract - T3L9		
-170		lineage tract - T3L10		
-171		lineage tract - T3L14		
-172		lineage tract - T3L23		
-173		lineage tract - T3L14a		
-174		lineage tract - T3L12b		
-175		lineage tract - T3L13a		
-176		lineage tract - T3L13b		
-177		lineage tract - T3L14b		
-178		lineage tract - T3L1c		
-179		lineage tract - T3L20/22		
-180		lineage tract - T3L5/6b		
-181		lineage tract - T3L6a		
-182		lineage tract - T3L7/8b		
-183		lineage tract - T3L15		
-184		lineage tract - T3L8ab		
-185		lineage tract - T3L8b		
-200		Commissure - T1L10	ProAIC	Taken from Elav-0026-071113_Ch2
-201		Commissure - T1L6A	ProPDC	Taken from Elav-0053-081113_Ch2
-202		Commissure - T1L6B	ProPIPC	Taken from Elav-0053-081113_Ch2
-203		Commissure - T1L12A	ProPIPC	Taken from Lineage Tract - T1L12a (115)
-204		Commissure - T3L5/6B	MetaPIPC	Taken from Lineage Tract - T3L5/6b (180)
-205		Commissure - T2L6B	MesoPIPC	Taken from Lineage Tract - T2L6b (158)
-206		Commissure - T2L5	MesoPIPC	Taken from Lineage Tract - T2L5 (135)
-207		Commissure - T2L7B	MesoPIAC	Taken from Elav-0027-071113_Ch2
-208		Commissure - T2L8B	MesoPIAC	Taken from Elav-0014-021013_Ch1
-209		Commissure - T2L18? or 8B? (Note: posterior of T2L2)	MesoAIDC	Taken from Elav-0014-021013_Ch1
+41	FBbt_00125006		DLT	
+42	FBbt_00125013		ITD	
+43	FBbt_00125007		CFF	
+44	FBbt_00125008		HC	
+45	FBbt_00125009		MTD	
+46	FBbt_0012500		ADM	
+47	FBbt_00125024		PDD	
+48	FBbt_00125010		DLV	
+49	FBbt_00125011		VLT	
+50	FBbt_00125012		VTV	
+51	FBbt_00125014		CPN	
+52	FBbt_00125015		APC	Not Available
+53	FBbt_00125016		CMN	
+54	FBbt_00125017		VAC	
+55	FBbt_00125019		ACM	
+56	FBbt_00125025		MDA	
+57	FBbt_00125018		DAM	Not Available
+58	FBbt_00125020		DCF	Not Available
+59	FBbt_00003683		MB	Not Available
+60	FBbt_00125021		VCF	Not Available
+61	FBbt_00125022		VE	Not Available
+99	FBbt_00125004	Tectulum Sensory Neuropil	TctSNp	(Subsection of area 30)
+100	FBgn0264975	Neuroglian	Nrg	
+101	FBbt_00125031	lineage tract - T1L0		
+102	FBbt_00125032	lineage tract - T1L2		
+103	FBbt_00125033	lineage tract - T1L21a		
+104	FBbt_00125034	lineage tract - T1L3		
+105	FBbt_00125035	lineage tract - T1L20/22		
+106	FBbt_00125036	lineage tract - T1L5		
+107	FBbt_00125037	lineage tract - T1L7		
+108	FBbt_00125038	lineage tract - T1L9		
+109	FBbt_00125039	lineage tract - T1L10		
+110	FBbt_00125040	lineage tract - T1L14		
+111	FBbt_00125041	lineage tract - T1L4/21		
+112	FBbt_00125042	lineage tract - T1L23		
+113	FBbt_00125043	lineage tract - T1L15		
+114	FBbt_00125044	lineage tract - T1L11/19/23		
+115	FBbt_00125045	lineage tract - T1L12a		
+116	FBbt_00125046	lineage tract - T1L12b		
+117	FBbt_00125047	lineage tract - T1L13a		
+118	FBbt_00125048	lineage tract - T1L13b		
+119	FBbt_00125049	lineage tract - T1L16		
+122	FBbt_00125050	lineage tract - T1L6a		
+123	FBbt_00125051	lineage tract - T1L6b		
+124	FBbt_00125052	lineage tract - T1L7/8b		
+125	FBbt_00125053	lineage tract - T1L8a/16		
+126	FBbt_00125054	lineage tract - T1L8b		
+129	FBbt_00125055	lineage tract - T2L0		
+130	FBbt_00125056	lineage tract - T2L2		
+131	FBbt_00125057	lineage tract - T2L1b		
+132	FBbt_00125058	lineage tract - T2L3		
+133	FBbt_00125059	lineage tract - T2L4		
+134	FBbt_00125060	lineage tract - T214b		Check ID
+135	FBbt_00125061	lineage tract - T2L5		
+136	FBbt_00125062	lineage tract - T2L15		
+137	FBbt_00125063	lineage tract - T2L7		
+138	FBbt_00125064	lineage tract - T2L24		
+140	FBbt_00125065	lineage tract - T2L10		
+141	FBbt_00125066	lineage tract - T2L11		
+142	FBbt_00125067	lineage tract - T2L14		
+143	FBbt_00125068	lineage tract - T2L16		
+144	FBbt_00125069	lineage tract - T2L17		
+146	FBbt_00125070	lineage tract - T2L21		
+147	FBbt_00125071	lineage tract - T2L23		
+150	FBbt_00125072	lineage tract - T2L12a		
+151	FBbt_00125073	lineage tract - T2L12b		
+153	FBbt_00125074	lineage tract - T2L13b		
+154	FBbt_00125075	lineage tract - T2L15/24		
+155	FBbt_00125076	lineage tract - T2L1a		
+156	FBbt_00125077	lineage tract - T2L20/22		
+157	FBbt_00125078	lineage tract - T2L6a		
+158	FBbt_00125079	lineage tract - T2L6b		
+159	FBbt_00125080	lineage tract - T2L8a		
+161	FBbt_00125081	lineage tract - T2L8b		
+162	FBbt_00125082	lineage tract - T3L0		
+163	FBbt_00125083	lineage tract - T3L1b		
+164	FBbt_00125084	lineage tract - T3L2		
+166	FBbt_00125085	lineage tract - T3L21		
+167	FBbt_00125086	lineage tract - T3L3		Do Not Use Needs Checking
+168	FBbt_00125087	lineage tract - T3L7		
+169	FBbt_00125088	lineage tract - T3L9		
+170	FBbt_00125089	lineage tract - T3L10		
+171	FBbt_00125090	lineage tract - T3L14		
+172	FBbt_00125091	lineage tract - T3L23		
+173	FBbt_00125092	lineage tract - T3L14a		
+174	FBbt_00125093	lineage tract - T3L12b		
+175	FBbt_00125094	lineage tract - T3L13a		
+176	FBbt_00125095	lineage tract - T3L13b		
+177	FBbt_00125096	lineage tract - T3L14b		
+178	FBbt_00125097	lineage tract - T3L1c		
+179	FBbt_00125098	lineage tract - T3L20/22		
+180	FBbt_00125099	lineage tract - T3L5/6b		
+181	FBbt_00125100	lineage tract - T3L6a		
+182	FBbt_00125101	lineage tract - T3L7/8b		
+183	FBbt_00125102	lineage tract - T3L15		
+184	FBbt_00125103	lineage tract - T3L8ab		
+185	FBbt_00125104	lineage tract - T3L8b		
+200	FBbt_00125105	Commissure - T1L10	ProAIC	Taken from Elav-0026-071113_Ch2
+201	FBbt_00125106	Commissure - T1L6A	ProPDC	Taken from Elav-0053-081113_Ch2
+202	FBbt_00125107	Commissure - T1L6B	ProPIPC	Taken from Elav-0053-081113_Ch2
+203	FBbt_00125108	Commissure - T1L12A	ProPIPC	Taken from Lineage Tract - T1L12a (115)
+204	FBbt_00125109	Commissure - T3L5/6B	MetaPIPC	Taken from Lineage Tract - T3L5/6b (180)
+205	FBbt_00125110	Commissure - T2L6B	MesoPIPC	Taken from Lineage Tract - T2L6b (158)
+206	FBbt_00125111	Commissure - T2L5	MesoPIPC	Taken from Lineage Tract - T2L5 (135)
+207	FBbt_00125112	Commissure - T2L7B	MesoPIAC	Taken from Elav-0027-071113_Ch2
+208	FBbt_00125113	Commissure - T2L8B	MesoPIAC	Taken from Elav-0014-021013_Ch1
+209	FBbt_00125114	Commissure - T2L18? or 8B? (Note: posterior of T2L2)	MesoAIDC	Taken from Elav-0014-021013_Ch1
 241			PCT	
 242			ITD-HT	
 243			ITD-CFF	
 244			ITD-HC	
-255		Cervical nerve	CvN	
+255	FBbt_00004053	Cervical nerve	CvN	
