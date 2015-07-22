@@ -28,7 +28,7 @@ Index	ID	Name	Abbreviation	Note
 27	FBbt_00110173	Abdominal ganglionic complex Sensory Neuropil	AGCSNp	(Subsection of area 5)
 28	FBbt_00004091	Accessory mesothoracic Sensory Neuropil	AMSNp	(Subsection of area 20)
 29	FBbt_00004057	Ventral prothoracic nerve	VProN	
-30	FBbt_00125005 Tectulum  Tct	(sensory area 99)
+30	FBbt_00125005	Tectulum	Tct	(sensory area 99)
 40	FBbt_00004020	Giant fiber neuron	GF	
 41			DLT	
 42			ITD	
